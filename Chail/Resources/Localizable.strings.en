@@ -1,0 +1,62 @@
+/* General */
+"app.name" = "Chail";
+"cancel" = "Cancel";
+"done" = "Done";
+"save" = "Save";
+"delete" = "Delete";
+"edit" = "Edit";
+
+/* Conversations */
+"conversations.title" = "Chats";
+"conversations.empty.title" = "No messages";
+"conversations.empty.subtitle" = "Set up an IMAP account to get started.";
+"conversations.search.prompt" = "Search";
+
+/* Chat Detail */
+"chat.reply.placeholder" = "Message…";
+"chat.send" = "Send";
+"chat.new.mail" = "New mail to %@";
+
+/* Compose */
+"compose.title" = "New Mail";
+"compose.to" = "To";
+"compose.subject" = "Subject";
+"compose.body" = "Message";
+"compose.send" = "Send";
+"compose.send.error" = "Failed to send";
+
+/* Account Setup */
+"account.setup.title" = "Add Account";
+"account.setup.name" = "Name (Display name)";
+"account.setup.email" = "Email address";
+"account.setup.password" = "Password";
+"account.setup.imap.server" = "IMAP server";
+"account.setup.smtp.server" = "SMTP server";
+"account.setup.port" = "Port";
+"account.setup.ssl" = "SSL/TLS";
+"account.setup.add" = "Add account";
+"account.setup.validating" = "Verifying connection…";
+"account.setup.success" = "Connection successful";
+"account.setup.error" = "Connection error";
+
+/* Settings */
+"settings.title" = "Settings";
+"settings.accounts" = "Accounts";
+"settings.add.account" = "Add Account";
+"settings.version" = "Version";
+
+/* Search */
+"search.title" = "Search";
+"search.prompt" = "Contact, subject or content";
+"search.hint" = "Search all messages";
+"search.no.results" = "No results for \"%@\"";
+
+/* Onboarding */
+"onboarding.welcome" = "Welcome to Chail";
+"onboarding.subtitle" = "Your emails as a chat.\nSimple, private, native.";
+"onboarding.setup" = "Set up IMAP account";
+
+/* Errors */
+"error.imap.connection" = "IMAP connection failed";
+"error.smtp.send" = "Could not send email";
+"error.keychain" = "Could not save password";
