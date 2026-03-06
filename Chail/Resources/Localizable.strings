@@ -1,0 +1,62 @@
+/* Allgemein */
+"app.name" = "Chail";
+"cancel" = "Abbrechen";
+"done" = "Fertig";
+"save" = "Speichern";
+"delete" = "Löschen";
+"edit" = "Bearbeiten";
+
+/* Konversationsliste */
+"conversations.title" = "Chats";
+"conversations.empty.title" = "Keine Nachrichten";
+"conversations.empty.subtitle" = "Richte ein IMAP-Konto ein, um loszulegen.";
+"conversations.search.prompt" = "Suchen";
+
+/* Chat-Detail */
+"chat.reply.placeholder" = "Nachricht …";
+"chat.send" = "Senden";
+"chat.new.mail" = "Neue Mail an %@";
+
+/* Compose */
+"compose.title" = "Neue Mail";
+"compose.to" = "An";
+"compose.subject" = "Betreff";
+"compose.body" = "Nachricht";
+"compose.send" = "Senden";
+"compose.send.error" = "Fehler beim Senden";
+
+/* Konto-Setup */
+"account.setup.title" = "Konto hinzufügen";
+"account.setup.name" = "Name (Anzeigename)";
+"account.setup.email" = "E-Mail-Adresse";
+"account.setup.password" = "Passwort";
+"account.setup.imap.server" = "IMAP-Server";
+"account.setup.smtp.server" = "SMTP-Server";
+"account.setup.port" = "Port";
+"account.setup.ssl" = "SSL/TLS";
+"account.setup.add" = "Konto hinzufügen";
+"account.setup.validating" = "Verbindung wird geprüft …";
+"account.setup.success" = "Verbindung erfolgreich";
+"account.setup.error" = "Verbindungsfehler";
+
+/* Einstellungen */
+"settings.title" = "Einstellungen";
+"settings.accounts" = "Konten";
+"settings.add.account" = "Konto hinzufügen";
+"settings.version" = "Version";
+
+/* Suche */
+"search.title" = "Suche";
+"search.prompt" = "Kontakt, Betreff oder Inhalt";
+"search.hint" = "Suche in allen Nachrichten";
+"search.no.results" = "Keine Ergebnisse für „%@"";
+
+/* Onboarding */
+"onboarding.welcome" = "Willkommen bei Chail";
+"onboarding.subtitle" = "Deine E-Mails als Chat.\nSimple, privat, nativ.";
+"onboarding.setup" = "IMAP-Konto einrichten";
+
+/* Fehler */
+"error.imap.connection" = "IMAP-Verbindung fehlgeschlagen";
+"error.smtp.send" = "E-Mail konnte nicht gesendet werden";
+"error.keychain" = "Passwort konnte nicht gespeichert werden";
