@@ -4,6 +4,15 @@
 
 ---
 
+## In Xcode öffnen
+
+1. Repo klonen: `git clone https://github.com/tigropm/Chail-Email-Chat-App`
+2. In Xcode: **File → Open** → `Chail/Package.swift` auswählen
+3. Xcode lädt automatisch alle Abhängigkeiten
+4. **Build & Run** auf Simulator oder iPhone (iOS 17+ erforderlich)
+
+---
+
 ## Inhaltsverzeichnis
 
 1. [Produktvision](#1-produktvision)
